@@ -224,7 +224,5 @@ cd rtos-monty-hall-simulator
 
 ## 참고
 
-- [`Examples/ST/STM32F429II-SK/OS3/app.c`](Examples/ST/STM32F429II-SK/OS3/app.c)
-- [`Software/uCOS-III/Source`](Software/uCOS-III/Source)
 - [`report.pdf`](report.pdf) (설계 배경, 검증 과정, 실험 결과)
 
