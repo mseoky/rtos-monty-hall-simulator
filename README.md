@@ -2,6 +2,9 @@
 
 > **"임베디드 RTOS 환경에서 몬티홀 딜레마를 실시간으로 체험하는 인터랙티브 시뮬레이터"**
 
+> [!NOTE]
+> 본 프로젝트는 **2025학년도 1학기 부산대학교 임베디드시스템(Embedded System)** 과목의 텀 프로젝트로 진행되었습니다.
+
 [![C](https://img.shields.io/badge/C-11-A8B9CC?logo=c&logoColor=black)](https://en.cppreference.com/w/c)
 [![STM32](https://img.shields.io/badge/MCU-STM32F429ZI-03234B?logo=stmicroelectronics&logoColor=white)](https://www.st.com/)
 [![RTOS](https://img.shields.io/badge/RTOS-uC%2FOS--III-1E90FF)](https://www.micrium.com/)
